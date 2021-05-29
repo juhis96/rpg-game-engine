@@ -1,2 +1,1 @@
-# rpg-game-engine
-Thesis
+# 2D RPG Game Engine In C# 
